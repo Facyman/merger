@@ -7,7 +7,7 @@ using Excel = Microsoft.Office.Interop.Excel;
 
 namespace _1task
 {
-    class merger
+    public static class merger
     {
         public static void Merger(bool cont,int Levenstein)
         {           
